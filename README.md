@@ -3,6 +3,17 @@
 #### 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐀𝐏𝐈 – A modern backend API built with Express.js, TypeScript, and PostgreSQL, hosted on Neon DB. This project follows clean architecture principles and modern backend development practices, featuring secure authentication, scalable project structure, RESTful APIs, database integration, and production-ready code organization.
 
 
+## ⚙️ Tech Stack
+
+This backend application is built using modern technologies to ensure scalability, maintainability, and performance.
+
+![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Neon](https://img.shields.io/badge/Hosting-Neon-00E599?style=for-the-badge\&logo=neon\&logoColor=black)
+
+---
+
 ## ✨ Features
 
 This project includes essential backend development concepts and real-world API implementation.
@@ -22,16 +33,6 @@ This project includes essential backend development concepts and real-world API 
 
 ---
 
-## ⚙️ Tech Stack
-
-This backend application is built using modern technologies to ensure scalability, maintainability, and performance.
-
-![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Neon](https://img.shields.io/badge/Hosting-Neon-00E599?style=for-the-badge\&logo=neon\&logoColor=black)
-
----
 
 ## 🚀 Why This Project
 
