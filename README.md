@@ -4,7 +4,6 @@
 
 ## ⚙️ Tech Stack
 
-
 This backend application is built using modern technologies to ensure scalability, maintainability, and performance.
 
 ![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
