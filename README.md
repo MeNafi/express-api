@@ -2,7 +2,7 @@
 
 #### 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐀𝐏𝐈 – A modern backend API built with Express.js, TypeScript, and PostgreSQL, hosted on Neon DB. This project follows clean architecture principles and modern backend development practices, featuring secure authentication, scalable project structure, RESTful APIs, database integration, and production-ready code organization.
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stackk
 
 This backend application is built using modern technologies to ensure scalability, maintainability, and performance.
 
